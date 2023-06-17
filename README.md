@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [She drive](https://github.com/Shivam-hits/She-drives)
 
-- 🌱 I’m currently learning **Back-end development**
+- 🌱 I’m currently learning **Full-Stack development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
