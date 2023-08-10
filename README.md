@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-hits&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-hits" /> </p>
 
-- 🔭 I’m currently working on [Awasthi-medical](https://github.com/Shivam-hits/She-drives](https://github.com/Shivam-hits/Awasthi-Medical.git)
+- 🔭 I’m currently working on [Awasthi-medical](https://github.com/Shivam-hits/Awasthi-Medical.git)
 
 - 🌱 I’m currently learning **Full-Stack development**
 
